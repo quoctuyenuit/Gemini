@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gemini</string>
+    <string name="facebook_app_id">195535167751445</string>
+    <string name="fb_login_protocol_scheme">fb195535167751445</string>
+</resources>

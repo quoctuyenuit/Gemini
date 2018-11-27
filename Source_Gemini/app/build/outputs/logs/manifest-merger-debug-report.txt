@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.facebook.android:facebook-share:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-share-4.38.1.aar\41adec34a56484dc56a75ca54322da15\AndroidManifest.xml:21:1-31:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\426778664a23db1aa158f6d7b6003118\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-login:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-login-4.38.1.aar\957a8bea88888a54ccd9a76db17a94bb\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\46ad6d3cd6a9c10bcf579b3f278a81f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d069a9a318679be70db745268c5293b8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\bc7043f234968d0f409e979d7f256d63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\33712c2af68d248654b0cd944897f48d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\46338584a7a82e413c30dedcbdf325cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7e49eaddffa6d693b1d68c84367585d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\2a72161e89cdb687e902b7f60cb3d1fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d23ea7fac59ab0575ca3883256f08252\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9d48dd273ec80ef520e3c34df30516b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ab4aa26fe974e36a389e229affa6fae1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\b3a760ba156f61e0afc80374db8fe752\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\521ede7db6d87666558f5248a594af62\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9ad2ac521eb4d36465463f349c7544c3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:9:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:12:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:15:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:18:9-63
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission. ACCESS_COARSE_LOCATION
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:23:22-79
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:24:22-64
+application
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:26:5-72:19
+MERGED from [com.facebook.android:facebook-share:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-share-4.38.1.aar\41adec34a56484dc56a75ca54322da15\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-share-4.38.1.aar\41adec34a56484dc56a75ca54322da15\AndroidManifest.xml:28:5-29:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\426778664a23db1aa158f6d7b6003118\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\426778664a23db1aa158f6d7b6003118\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-login:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-login-4.38.1.aar\957a8bea88888a54ccd9a76db17a94bb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-login-4.38.1.aar\957a8bea88888a54ccd9a76db17a94bb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d069a9a318679be70db745268c5293b8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d069a9a318679be70db745268c5293b8\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:28:5-51:19
+	android:supportsRtl
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:30:9-54
+	android:icon
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:32:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:34:13-58
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:37:9-40:48
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:40:13-45
+	android:configChanges
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:39:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:38:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:41:9-52:20
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:42:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:44:13-51:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:47:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:48:27-75
+data
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:50:17-75
+	android:scheme
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:50:23-72
+activity#com.example.a15520824.phanmemchuyensau.MainActivity
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:53:9-59:20
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:53:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:57:27-74
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:61:9-64:39
+	android:authorities
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:63:13-100
+	android:exported
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:64:13-36
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:62:13-64
+activity#com.example.a15520824.phanmemchuyensau.SettingActivity
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:66:9-53
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:66:19-50
+activity#com.example.a15520824.phanmemchuyensau.EditActionActivity
+ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:68:9-71:25
+	android:excludeFromRecents
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:70:13-46
+	android:theme
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:69:13-58
+	android:name
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml:68:19-53
+uses-sdk
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.android:facebook-share:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-share-4.38.1.aar\41adec34a56484dc56a75ca54322da15\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-share-4.38.1.aar\41adec34a56484dc56a75ca54322da15\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\426778664a23db1aa158f6d7b6003118\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\426778664a23db1aa158f6d7b6003118\AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.android:facebook-login:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-login-4.38.1.aar\957a8bea88888a54ccd9a76db17a94bb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-login-4.38.1.aar\957a8bea88888a54ccd9a76db17a94bb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\46ad6d3cd6a9c10bcf579b3f278a81f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\46ad6d3cd6a9c10bcf579b3f278a81f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d069a9a318679be70db745268c5293b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d069a9a318679be70db745268c5293b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\bc7043f234968d0f409e979d7f256d63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\bc7043f234968d0f409e979d7f256d63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\33712c2af68d248654b0cd944897f48d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\33712c2af68d248654b0cd944897f48d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\46338584a7a82e413c30dedcbdf325cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\46338584a7a82e413c30dedcbdf325cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7e49eaddffa6d693b1d68c84367585d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\7e49eaddffa6d693b1d68c84367585d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\2a72161e89cdb687e902b7f60cb3d1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\2a72161e89cdb687e902b7f60cb3d1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d23ea7fac59ab0575ca3883256f08252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d23ea7fac59ab0575ca3883256f08252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9d48dd273ec80ef520e3c34df30516b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9d48dd273ec80ef520e3c34df30516b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ab4aa26fe974e36a389e229affa6fae1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\ab4aa26fe974e36a389e229affa6fae1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\b3a760ba156f61e0afc80374db8fe752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\b3a760ba156f61e0afc80374db8fe752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\521ede7db6d87666558f5248a594af62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\521ede7db6d87666558f5248a594af62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9ad2ac521eb4d36465463f349c7544c3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9ad2ac521eb4d36465463f349c7544c3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\QuocTuyen\Downloads\Source_Gemini\app\src\main\AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-common-4.38.1.aar\f3829b471ada4d1eca98674448e90313\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.38.1] C:\Users\QuocTuyen\.gradle\caches\transforms-1\files-1.1\facebook-core-4.38.1.aar\c6f5b3e1a02b2064042529f57360d008\AndroidManifest.xml:48:25-92
